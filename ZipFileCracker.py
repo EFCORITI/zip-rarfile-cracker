@@ -4,8 +4,10 @@ from zipfile import ZipFile
 import termcolor2
 from colorama import Fore
 import os
-os.system('clear')
+import time
 
+os.system('clear')
+time.sleep(2)
 # ===========================================
 print(""" 
 
