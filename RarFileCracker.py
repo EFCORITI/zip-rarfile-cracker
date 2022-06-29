@@ -5,7 +5,7 @@ from colorama import Fore
 import termcolor2
 import os
 os.system('clear')
-
+time.sleep(2)
 rarfile.UNRAR_TOOL = "unrar"
 print(""" 
 
