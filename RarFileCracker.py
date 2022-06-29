@@ -3,6 +3,8 @@ import rarfile
 import sys
 from colorama import Fore
 import termcolor2
+import os
+os.system('clear')
 
 rarfile.UNRAR_TOOL = "unrar"
 print(""" 
@@ -16,6 +18,7 @@ print("""
                                                                                     
 
  """)
+os.system('clear')
 print(Fore.BLUE)
 print(""" 
 
