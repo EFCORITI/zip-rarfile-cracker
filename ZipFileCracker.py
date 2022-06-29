@@ -3,7 +3,8 @@ from datetime import datetime
 from zipfile import ZipFile
 import termcolor2
 from colorama import Fore
-
+import os
+os.system('clear')
 
 # ===========================================
 print(""" 
@@ -20,7 +21,7 @@ print("""
                                                                                                               
 
  """)
- 
+os.system('clear')
 print(Fore.BLUE)
 print(""" 
  .----------------.  .----------------.  .----------------. 
